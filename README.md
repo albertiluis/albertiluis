@@ -1,4 +1,4 @@
-Olá, me chamo Luis Henrique, sou estudanto do 8º semestre de Engenharia Mecânica na Universidade Federal do Rio Grande do Sul e buscando me desenvolver como Dev Web Front-End.
+Olá, me chamo Luis Henrique, sou estudante do 8º semestre de Engenharia Mecânica na Universidade Federal do Rio Grande do Sul e buscando me desenvolver como Dev Web Front-End.
 
 Tenho conhecimento em HTML, CSS e JavaScript.
 
