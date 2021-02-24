@@ -1,4 +1,8 @@
-### Hi there 👋
+Olá, me chamo Luis Henrique, sou estudanto do 8º semestre de Engenharia Mecânica na Universidade Federal do Rio Grande do Sul e buscando me desenvolver como Dev Web Front-End.
+
+Tenho conhecimento em HTML, CSS e JavaScript.
+
+Atualmente aprendendo ReactJS.
 
 <!--
 **albertiluis/albertiluis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
