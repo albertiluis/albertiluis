@@ -5,7 +5,7 @@ Tenho conhecimento em HTML, CSS e JavaScript.
 Atualmente aprendendo ReactJS.
 
 Contato:
-luishenrialberti@gmail.com
+luishenrialberti@gmail.com <br>
 https://www.linkedin.com/in/luis-henrique-alberti-1b52ab196/
 
 <!--
