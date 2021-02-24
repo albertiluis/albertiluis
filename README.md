@@ -4,6 +4,10 @@ Tenho conhecimento em HTML, CSS e JavaScript.
 
 Atualmente aprendendo ReactJS.
 
+Contato:
+luishenrialberti@gmail.com
+https://www.linkedin.com/in/luis-henrique-alberti-1b52ab196/
+
 <!--
 **albertiluis/albertiluis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
